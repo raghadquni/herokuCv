@@ -1,0 +1,26 @@
+
+
+aside {
+    width: 20%;
+    padding-right: 15px;
+    margin-left: 60px;
+    float: left;
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+  }
+
+
+aside .inner{
+    background: #fff;
+    padding: 30px;
+  }
+
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+
+  hr {
+      color: rgba(128, 128, 128, 0);
+}
